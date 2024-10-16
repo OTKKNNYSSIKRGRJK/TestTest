@@ -63,5 +63,7 @@ public:
 int main() {
 	Heap<int> heap{};
 
+	std::cout << "BranchTest has been changed.\n";
+
 	return 0;
 }
